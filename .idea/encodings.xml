@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/代码/DesignPattern/src/com/atguigu/adapter/classadapter/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/代码/DesignPattern/src/com/atguigu/adapter/classadapter/IVoltage5V.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/代码/DesignPattern/src/com/atguigu/adapter/classadapter/Voltage220V.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/代码/DesignPattern/src/com/atguigu/flyweight/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/代码/DesignPattern/src/com/atguigu/flyweight/ConcreteWebSite.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
